@@ -1,0 +1,11 @@
+geopandas
+shapely
+matplotlib
+folium
+osmnx
+pyrosm
+h3
+pandas
+numpy
+requests
+scikit-learn
