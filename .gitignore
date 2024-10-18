@@ -1,1 +1,4 @@
-
+.DS_Store
+diploma_env
+.gitattributes
+requirements.txt
