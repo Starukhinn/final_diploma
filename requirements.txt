@@ -9,3 +9,7 @@ numpydoc==1.7.0
 pandas==2.2.2
 seaborn==0.13.2
 shapely==2.0.7
+scikit-learn==1.6.1
+joblib==1.4.2
+threadpoolctl==3.6.0
+scipy==1.15.2
