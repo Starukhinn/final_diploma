@@ -1,4 +1,19 @@
+
 .DS_Store
 diploma_env
 .gitattributes
-requirements.txt
+# Игнорировать все CSV-файлы
+*.csv
+
+# Игнорировать все GPG-файлы
+*.gpg
+*.csv
+*.gpg
+.ipynb_checkpoints/
+*.csv
+*.gpkg
+*.svg
+*.ods
+*.shp
+*.xml
+*.tmp
