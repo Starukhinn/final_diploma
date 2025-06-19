@@ -25,3 +25,7 @@ diploma_env
 *.shp
 *.xml
 *.tmp
+diploma_text/
+london/data/
+moscow/moscow_data/
+nsw/data/
