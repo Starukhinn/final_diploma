@@ -41,3 +41,9 @@ moscow/prior_notebooks/
 london/maps/
 moscow/maps/
 nsw/maps/
+
+# Игнорировать JSON, TensorBoard, TSV, Pickle
+*.json
+*.tfevents*
+*.tsv
+*.pkl
