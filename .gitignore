@@ -17,3 +17,11 @@ diploma_env
 *.shp
 *.xml
 *.tmp
+.ipynb_checkpoints/
+*.csv
+*.gpkg
+*.svg
+*.ods
+*.shp
+*.xml
+*.tmp
